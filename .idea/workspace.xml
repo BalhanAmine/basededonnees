@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ebcdff6-c667-44f7-9fef-ffaf6edd79ed" name="Changes" comment="" />
+    <list default="true" id="4ebcdff6-c667-44f7-9fef-ffaf6edd79ed" name="Changes" comment="phase 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2Zp1jVHVnIpXp9BUtNbzFPFKnjq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -57,12 +61,25 @@
       <workItem from="1703766860260" duration="933000" />
       <workItem from="1703768856841" duration="6900000" />
       <workItem from="1703839315003" duration="5113000" />
-      <workItem from="1703863600489" duration="955000" />
+      <workItem from="1703863600489" duration="1418000" />
     </task>
+    <task id="LOCAL-00001" summary="phase 2">
+      <option name="closed" value="true" />
+      <created>1703879091233</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703879091233</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="phase 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="phase 2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
